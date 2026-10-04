@@ -39,7 +39,6 @@ apis:
   - name: Transport for Manchester, England
     description: "TfGM transport network data"
     humanURL: https://developer.tfgm.com/
-    baseURL: https://developer.tfgm.com/
     tags:
       - Transportation
     properties:
